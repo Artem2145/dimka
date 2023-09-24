@@ -1,0 +1,83 @@
+body {
+    background-image: url(https://telegra.ph/file/6ddef2ef3b1e311a5ca66.jpg);
+    background-size: 700%;
+    
+}
+
+p {
+    color: black;
+}
+
+.main {
+    color: white;
+}
+
+.main h1 {
+    color: gold;
+}
+
+.main h2 {
+    color: cyan;
+}
+
+h3 {
+    color: cyan;
+}
+
+.content img {
+    width: 380px;
+}
+
+.content h2 {
+    color: cyan;
+}
+.footer h2 {
+    color: gold;
+    text-align: end;
+}
+.content h2 a {
+    color: gold;
+}
+.fff h2 a {
+    color: lightseagreen;
+}
+.main p {
+    color: lightgreen;
+}
+li a {
+    text-decoration: none;
+    list-style: none;
+    color: #8bd975;
+    text-decoration: none;
+    border: 2px solid #8bd975;
+    border-radius: 17px;
+    padding: 3px 8px;
+    text-decoration: none;
+    background-color: transparent;
+    display: flex;
+    width: 20%;    
+}
+.ttt  {
+    margin-top: 50px;
+}
+ul {
+    
+  list-style: none;  
+    
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+ p {
+    width: 80%;
+}
+@media screen and (max-width: 600px) {
+    body{
+        background-size: 900%;
+    }
+    ul a {
+        width: 70%;
+    }
+  }
+

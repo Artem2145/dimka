@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://telegra.ph/file/6ddef2ef3b1e311a5ca66.jpg);
+    background-size: cover;
+}
+.main {
+    text-align: center;
+}
+.main h2 {
+    color: cyan;
+}
+.main h2 a {
+    color: gold;
+}
+.content h2 {
+    color: cyan;
+}
+.content img {
+    width: 380px;
+}
+.content h3 {
+    color: gold;
+}

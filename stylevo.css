@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://telegra.ph/file/6ddef2ef3b1e311a5ca66.jpg);
+    background-size: cover;
+}
+.main h2 {
+    color: lightskyblue;
+    text-align: center;
+}
+.content h2 {
+    color: gold;
+}
+.content h3 {
+    color: mediumspringgreen;
+}
+.content img {
+    width: 380px;
+}
+.main h2 a {
+    color: gold;
+}
